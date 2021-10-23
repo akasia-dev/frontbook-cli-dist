@@ -1,6 +1,6 @@
 {
   "name": "frontbook",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Frontbook CLI allows to download the frontbook template.",
   "bin": {
     "frontbook": "frontbook.js"
