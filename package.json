@@ -1,0 +1,19 @@
+{
+  "name": "frontbook",
+  "version": "1.0.4",
+  "description": "Frontbook CLI allows to download the frontbook template.",
+  "bin": {
+    "frontbook": "frontbook.js"
+  },
+  "main": "frontbook-cli.js",
+  "author": "akasia-dev",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "inquirer": "^8.1.2",
+    "inquirer-search-list": "^1.2.6",
+    "is-interactive": "^1.0.0",
+    "os-locale": "^5.0.0",
+    "typesafe-i18n": "^2.37.4"
+  }
+}
