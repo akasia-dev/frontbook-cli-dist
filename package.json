@@ -1,6 +1,6 @@
 {
   "name": "frontbook",
-  "version": "1.0.10",
+  "version": "1.0.12",
   "description": "Frontbook CLI allows to download the frontbook template.",
   "bin": {
     "frontbook": "frontbook.js"
@@ -14,7 +14,6 @@
   "dependencies": {
     "inquirer": "^8.2.0",
     "inquirer-search-list": "^1.2.6",
-    "os-locale": "^5.0.0",
-    "typesafe-i18n": "^2.37.4"
+    "os-locale": "^5.0.0"
   }
 }
